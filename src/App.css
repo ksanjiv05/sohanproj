@@ -1,0 +1,21 @@
+.reg-form {
+  margin: -4% 16% 13% 16%;
+  padding: 10%;
+  font-size: 19px;
+  font-family: cursive;
+  color: #fffffff7;
+}
+.logo {
+  width: 40px;
+  border-radius: 20px;
+}
+.custom-input {
+  height: 42px;
+  font-size: 24px;
+  color: black;
+  font-family: monospace;
+}
+.custom-button {
+  height: 42px;
+  font-size: 23px;
+}
